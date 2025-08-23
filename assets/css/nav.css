@@ -22,3 +22,34 @@
     text-decoration: none;
     font: bold;
 }
+
+.one{
+    height: 600px;
+    width: 50%;
+    /* background-color: rgb(113, 81, 163); */
+    /* margin-top: 0px; */
+    position: absolute;
+    top: 130px;
+    float: left;
+}
+.two{
+    height: 600px;
+    width: 50%;
+    background-image: url(../images/Ellipse\ 1.png);
+    position: relative;
+    float: right;
+}
+
+.img1{
+    left: 220px;
+    z-index: -2;
+    top: 90px;
+    position: absolute;
+
+
+}
+.img2{
+    margin-left: 10px;
+    z-index: -1;
+    position: absolute;
+}
